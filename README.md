@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-- 🔭 I’m currently working on **doctor app**
+- 🔭 I’m currently working on **Ejarak App**
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on **Flutter Developer**
 
